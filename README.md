@@ -1,2 +1,2 @@
-# rohanasan-website
-this is the source code of rohanasan's website.
+# This is the source code of Rohanasan's website.
+https://github.com/rohanasan/rohanasan_c
