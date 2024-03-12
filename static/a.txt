@@ -1,0 +1,3 @@
+Rohan Vashisht
+
+This is a text file that would be sent at /static/a.txt
