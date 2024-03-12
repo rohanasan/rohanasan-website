@@ -1,9 +1,10 @@
-FROM gcc:latest
+FROM alpine:latest
 
+RUN apk add --no-cache clang
 WORKDIR /app
 
 COPY . /app
 
-RUN gcc ./server.c
+RUN clang ./server.c
 
 ENTRYPOINT ./a.out
